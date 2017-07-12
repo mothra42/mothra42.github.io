@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	position:relative;
+}
+
+header {
+		background-color: blue;
+		font-family: helvetica, sans-serif;
+		
+}

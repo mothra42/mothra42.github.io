@@ -6,7 +6,13 @@
 }
 
 header {
+		width: 80%;
+		float: left;
 		background-color: blue;
 		font-family: helvetica, sans-serif;
-		
+		margin: 5% auto;
+}
+
+div {
+	background-color: 
 }

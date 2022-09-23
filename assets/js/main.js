@@ -167,6 +167,13 @@
 
 			});
 
+			$(".btn-show-page-two").on( "click", function() {
+				$(".page-one").addClass("inactive");
+				$(".page-one").removeClass("inactive");
+				$(".page-two").removeClass("inactive");
+				$(".page-two").addClass("active")
+			});
+
 	// IE: Fixes.
 		if (browser.name == 'ie') {
 
